@@ -3,7 +3,7 @@ description: 'A GitHub action for configuring composer to use Laravel Nova.'
 
 branding:
   icon: git-branch
-  color: yellow
+  color: purple
 
 inputs:
   user:
